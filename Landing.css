@@ -20,7 +20,7 @@ nav{
     display: flex;
     align-items: right;
     justify-content: space-between;
-    background:#680057;
+    background-color:#680057;
     padding-right: 3%;
     height: 90px;
     width: 101%
@@ -68,7 +68,7 @@ div ol{
  
 }
 
-img{
+img{  
     width: 100%;
   
 }
