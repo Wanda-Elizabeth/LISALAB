@@ -3,7 +3,7 @@ body{
     background-color: rgb(199, 124, 149);
     background-position:center;
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no repeat;
    
 }
 h1{ 
@@ -40,7 +40,7 @@ nav  ul li{
 
 }
 nav ul li a{
-    color:rgb(16, 190, 16);
+    color:rgb(6, 167, 6);
     font-size: 15px;
     padding: 8px 15px;
     border-radius: 3px;
@@ -64,7 +64,7 @@ div ol{
     margin-top: -6%;
     padding-left: 10%;
     margin-left: 20%;
-    margin-right:  2%;
+    margin-right: 2%;
  
 }
 
